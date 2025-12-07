@@ -11,7 +11,7 @@ Hey! I'm Ikrar, a Data Science and Machine Learning enthusiast currently in my 5
 
 I enjoy tackling the full pipeline of ML work. From the initial data exploration and statistical analysis, to training models with PyTorch or TensorFlow, all the way to deploying them as actual applications people can use. Having spent 5 years in graphic design and leading creative teams, I bring a user-centered perspective to building AI products that's a bit different from the usual purely technical approach.
 
-Right now, I'm also leading creative strategy at Google Developer Group on Campus UNHAS, which keeps me thinking about how to communicate complex technical ideas visually.
+Right now, I'm also leading Creative Media team at Google Developer Group on Campus UNHAS, which keeps me thinking about how to communicate complex technical ideas visually.
 
 **Looking for:** Data Science and ML Engineering opportunities where I can contribute and keep growing
 
