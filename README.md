@@ -117,24 +117,6 @@ Right now, I'm also leading creative strategy at Google Developer Group on Campu
 
 </div>
 
-## 📈 Contribution Activity:
-
-[![Ikrar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikrar06&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Ikrar06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ikrar06&color=0099FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 ### Thanks for visiting! Feel free to reach out for collaborations or opportunities 🚀
 
 </div>
