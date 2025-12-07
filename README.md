@@ -1,18 +1,139 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=200&section=header&text=Ikrar%20Gempur%20Tirani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20ML%20Engineer%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Building+Intelligent+Systems;PyTorch+•+TensorFlow+•+Scikit-learn;Statistical+Modeling+%26+Deep+Learning;Full-Stack+AI+Development)](https://git.io/typing-svg)
+
+</div>
+
 # 💫 About Me:
-Hey there! I'm Ikrar Gempur Tirani, a graphic designer from Gorontalo who's been turning ideas into visuals for over 5 years now. What started as messing around with Photoshop in high school has become this genuine love for making complex things look simple and beautiful.<br><br>Currently balancing my fifth semester in Informatics Engineering at Hasanuddin University while leading creative media at Google Developer on Campus. I'm that person who gets excited about clean typography and perfectly aligned layouts, but also loves diving deep into how AI is reshaping the creative industry. For me, great design isn't just about looking good, it's about creating that instant connection where people just get it.
+Hey! I'm Ikrar, a Data Science and Machine Learning enthusiast currently in my 5th semester at Hasanuddin University's Informatics Engineering program. I'm working towards the AI specialization track and loving every bit of it.
 
+I enjoy tackling the full pipeline of ML work. From the initial data exploration and statistical analysis, to training models with PyTorch or TensorFlow, all the way to deploying them as actual applications people can use. Having spent 5 years in graphic design and leading creative teams, I bring a user-centered perspective to building AI products that's a bit different from the usual purely technical approach.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krargmprr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikrar-gempur-tirani-867537283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikrargempurtrn@gmail.com) 
+Right now, I'm also leading creative strategy at Google Developer Group on Campus UNHAS, which keeps me thinking about how to communicate complex technical ideas visually.
+
+**Looking for:** Data Science and ML Engineering opportunities where I can contribute and keep growing
+
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/ikrargempurtirani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ikrargempurtrn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-ikrar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Ikrar06">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+<details open>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Full-Stack Development</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Others</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+</details>
+
+<details open>
+<summary><b>🎨 Design Tools</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</details>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ikrar06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ikrar06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikrar06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ikrar06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ikrar06&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikrar06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+## 📈 Contribution Activity:
+
+[![Ikrar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikrar06&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies:
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Ikrar06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ikrar06&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ikrar06&color=0099FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+### Thanks for visiting! Feel free to reach out for collaborations or opportunities 🚀
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=120&section=footer)
