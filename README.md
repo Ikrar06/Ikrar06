@@ -109,11 +109,9 @@ Right now, I'm also leading Creative Media team at Google Developer Group on Cam
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ikrar06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ikrar06&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikrar06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
