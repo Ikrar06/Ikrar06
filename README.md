@@ -1,30 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=200&section=header&text=Ikrar%20Gempur%20Tirani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20ML%20Engineer%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=200&section=header&text=Ikrar%20Gempur%20Tirani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20Learning%20Data%20Science%20%26%20ML&descAlignY=55&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Building+Intelligent+Systems;PyTorch+•+TensorFlow+•+Scikit-learn;Statistical+Modeling+%26+Deep+Learning;Full-Stack+AI+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Learning+Data+Science+%26+ML;Exploring+Statistical+Modeling;Building+Projects+with+PyTorch+%26+TensorFlow;Passionate+About+AI+Development;Always+Eager+to+Learn+More)](https://git.io/typing-svg)
 
 </div>
 
 # 💫 About Me:
-Hey! I'm Ikrar, a Data Science and Machine Learning enthusiast currently in my 5th semester at Hasanuddin University's Informatics Engineering program. I'm working towards the AI specialization track and loving every bit of it.
+Hi! I'm Ikrar, an Informatics Engineering student at Hasanuddin University (5th semester, GPA 3.91/4.00) learning Data Science and Machine Learning. I'm currently taking the AI specialization track and really enjoying the journey of exploring this field.
 
-I enjoy tackling the full pipeline of ML work. From the initial data exploration and statistical analysis, to training models with PyTorch or TensorFlow, all the way to deploying them as actual applications people can use. Having spent 5 years in graphic design and leading creative teams, I bring a user-centered perspective to building AI products that's a bit different from the usual purely technical approach.
+I'm passionate about understanding the full ML pipeline—from data exploration and statistical analysis, through model training with PyTorch or TensorFlow, to deploying them as functional applications. With 5 years of background in graphic design and creative team leadership, I try to bring a user-centered perspective to the AI projects I work on.
 
-Right now, I'm also leading Creative Media team at Google Developer Group on Campus UNHAS, which keeps me thinking about how to communicate complex technical ideas visually.
+Currently, I'm also leading the Creative Media team at Google Developer Group on Campus UNHAS, which helps me practice communicating technical concepts visually.
 
-**Looking for:** Data Science and ML Engineering opportunities where I can contribute and keep growing
+**What I'm looking for:** Internships and learning opportunities in Data Science and ML where I can contribute while continuing to grow and learn from experienced practitioners.
 
 ## 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/ikrargempurtirani">
+  <a href="https://linkedin.com/in/ikrar-gempur-tirani">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ikrargempurtrn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://portfolio-ikrar.vercel.app">
+  <a href="https://ikrar.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Ikrar06">
@@ -109,13 +109,11 @@ Right now, I'm also leading Creative Media team at Google Developer Group on Cam
 
 <div align="center">
 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ikrar06&theme=tokyonight&hide_border=true)
-
 
 </div>
 
-### Thanks for visiting! Feel free to reach out for collaborations or opportunities 🚀
+### Thanks for visiting! Feel free to reach out—I'm always happy to connect and learn 🚀
 
 </div>
 
