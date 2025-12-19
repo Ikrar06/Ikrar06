@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=200&section=header&text=Ikrar%20Gempur%20Tirani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20Learning%20Data%20Science%20%26%20ML&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:0077DD&height=200&section=header&text=Ikrar%20Gempur%20Tirani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20•%20Learning%20DS%20and%20ML&descAlignY=55&descSize=18)
 
 <div align="center">
 
