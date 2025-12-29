@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-Hi! I'm Ikrar, an Informatics Engineering student at Hasanuddin University (5th semester, GPA 3.91/4.00) learning Data Science and Machine Learning. I'm currently taking the AI specialization track and really enjoying the journey of exploring this field.
+Hi! I'm Ikrar, an Informatics Engineering student at Hasanuddin University learning Data Science and Machine Learning. I'm currently taking the AI specialization track and really enjoying the journey of exploring this field.
 
 I'm passionate about understanding the full ML pipeline—from data exploration and statistical analysis, through model training with PyTorch or TensorFlow, to deploying them as functional applications. With 5 years of background in graphic design and creative team leadership, I try to bring a user-centered perspective to the AI projects I work on.
 
